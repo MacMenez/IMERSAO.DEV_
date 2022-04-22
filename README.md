@@ -1,7 +1,6 @@
 # IMERSAO.DEV_
  Teste de Repositório
 
-
 ## AULA 1: VARIÁVEIS, OPERAÇÕES E MÉDIA
 
 ### VARIÁVEIS, OPERAÇÕES E MÉDIA
